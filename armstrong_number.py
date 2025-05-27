@@ -10,3 +10,5 @@ if sum==n2:
     print(f"{n2} in a armstrong number.")
 else:
     print(f"{n2} in a armstrong number.")
+    
+    #factorial number
