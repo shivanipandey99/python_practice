@@ -32,4 +32,44 @@ else:
 gross = salary + hra + da
 print("Gross Salary is:", gross)
 
-write a program to print hello world.
+1.write a program to print hello world.
+s = "Hello World"
+print(s)
+
+2.write a python program to do aritimetic operations and divition 
+#addition
+num1=float(input("enter the first number of addtion"))
+num2=float(input("enter the second number of addtion"))
+sum_result = num1+num2
+print(f"sum+{num1}+{num2}={sum_result}")
+
+#division
+num3=float(input("enter the divident number of division"))
+num4=float(input("enter the divisor number of division"))
+if num 4==0:
+    print("error":division by zero is not allowed")
+else:
+ div_resulte =num3 / num4
+ print(f"additin+{num1}+{num2}={sum_result}")
+ 
+ 3.wap to find the area of circle 
+ base = float(input("enter the lenght of the base of the tiriangle:"))
+ height = float(input("enter the height of the tiriangle:"))
+ #calculate the thriangle of area
+ area = 0.5* base*height
+ print(f"the area of triangle is:{area}")
+ 11.Write a Python Program to Check if a Number is Positive, Negative or Zero
+ num1 = int(input("enter a number"))
+ if num1 > 0 :
+ print("positive number")
+ 
+ 3.wap to find the area of circle 
+ base = float(input("enter the lenght of the base of the tiriangle:"))
+ height = float(input("enter the height of the tiriangle:"))
+ #calculate the thriangle of area
+ area = 0.5* base*height
+ print(f"the area of triangle is:{area}")
+ 11.Write a Python Program to Check if a Number is Positive, Negative or Zero
+ num1 = int(input("enter a number"))
+ if num1 > 0 :
+ print("positive number")
