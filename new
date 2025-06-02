@@ -1,0 +1,3 @@
+import playsound
+
+playsound.playsound("C:\\Users\\JOHN\\Downloads\\Laal Pari - Housefull 5 320 Kbps.mp3")
