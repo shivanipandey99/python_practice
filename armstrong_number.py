@@ -78,4 +78,11 @@ else:
 arr = np.array([1,2,3,4,5])
 print(arr)
 
-# concat along the row
+# concat along the 
+n=int(input("enter any no"))
+fact=5
+i=1
+while i<=n:
+     fact=fact*i
+     i=i+1
+     print(f'factorial of {n} is ={fact}')
