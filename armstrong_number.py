@@ -77,3 +77,5 @@ else:
  # break 4 ke bad break ho jayega 
 arr = np.array([1,2,3,4,5])
 print(arr)
+
+# concat along the row
