@@ -86,3 +86,6 @@ while i<=n:
      fact=fact*i
      i=i+1
      print(f'factorial of {n} is ={fact}')
+     
+     arr = [0,1,2]
+print(np.tile(arr,(2,2)))
