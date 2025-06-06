@@ -99,3 +99,6 @@ while i<=n:
     else:
        print(i)
     i=i+1
+    
+    # wap to python pattern printing
+
