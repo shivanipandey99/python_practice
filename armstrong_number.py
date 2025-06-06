@@ -89,3 +89,13 @@ while i<=n:
      
      arr = [0,1,2]
 print(np.tile(arr,(2,2)))
+
+#pass current block ko skip kar deta hai 
+n=int(input("enter any number"))
+i=1
+while i<=n:
+    if i==7:
+        pass
+    else:
+       print(i)
+    i=i+1
