@@ -101,4 +101,4 @@ while i<=n:
     i=i+1
     
     # wap to python pattern printing
-
+  
