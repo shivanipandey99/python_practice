@@ -104,3 +104,6 @@ while i<=n:
     import random
       print(random.random())
   
+  
+  import random
+print(random.randint(1, 100))
