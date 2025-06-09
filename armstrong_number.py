@@ -100,5 +100,7 @@ while i<=n:
        print(i)
     i=i+1
     
-    # wap to python pattern printing
+    # wap to python print random function 
+    import random
+      print(random.random())
   
