@@ -107,3 +107,5 @@ while i<=n:
   
   import random
 print(random.randint(1, 100))
+
+print(users.head(25))
