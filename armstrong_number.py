@@ -112,3 +112,4 @@ print(users.head(25))
 
 #Step 6. What is the number of columns in the dataset
 a.shape[0]
+euro12.info()
