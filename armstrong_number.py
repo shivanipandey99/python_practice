@@ -109,3 +109,6 @@ while i<=n:
 print(random.randint(1, 100))
 
 print(users.head(25))
+
+#Step 6. What is the number of columns in the dataset
+a.shape[0]
