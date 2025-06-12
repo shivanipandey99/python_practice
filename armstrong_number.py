@@ -115,3 +115,4 @@ a.shape[0]
 euro12.info()
 
 Data.discribe()
+euro12.iloc[:,:-3]
