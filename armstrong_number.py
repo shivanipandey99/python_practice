@@ -116,3 +116,4 @@ euro12.info()
 
 Data.discribe()
 euro12.iloc[:,:-3]
+euro12.iloc[:,:-3]
